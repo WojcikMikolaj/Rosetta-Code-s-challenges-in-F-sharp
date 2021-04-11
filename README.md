@@ -1,4 +1,4 @@
-# RosettaCode-challenges-in-F#
+# Rosetta-Code's-challenges-in-F#
 
 Learning F# by doing Rosetta Code's challenges.
-(Rosetta Code)[https://www.rosettacode.org/wiki/Rosetta_Code]
+[Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code)
